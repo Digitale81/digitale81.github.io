@@ -1,0 +1,5 @@
+{
+  "name": "Digitale Terrestre",
+  "version": "1.0.0",
+  "parameter": "menu:request:interaction:init@http://msx.benzac.de/interaction/m3u.html?url=https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvita.m3u"
+}
